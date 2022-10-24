@@ -7,6 +7,6 @@ I'm an aspiring software developer based in BC, Canada. I specialize in front en
 
 🏫 - I'm a 2nd year student in the Computer Systems Technology diploma at BCIT, speciaizing in artificial intelligence and machine learning. I also love taking online courses about anything and everything that I find interesting.
 
-💌 - If you'd like to reach out to me, shoot me an email at NolanNordwall@gmail.com. Check out my portfolio at https://softwaresorcerer.com/
+💌 - If you'd like to reach out to me, shoot me an email at NolanNordwall@gmail.com. You can also check out my previous work on my portfolio at https://softwaresorcerer.com/
 
 Thanks for checking out my github! Let's build some radical stuff together!
