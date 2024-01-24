@@ -1,7 +1,7 @@
 # Oh hey, didn't see you there!
 
 #### 🥳 Hi, I'm Nolan! 
-I'm a junior software developer based in BC, Canada. I specialize in C++, and AI/ML
+I'm a junior software developer based in BC, Canada. I specialize in C++ and Python mostly, but I have some experience in web development as well
 
 🎲 - I'm interested in game development, creative writting, running long distances, and generally creating cool things. I also try to play as much D&D as I possibly can.
 
